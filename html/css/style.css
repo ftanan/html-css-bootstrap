@@ -1,0 +1,64 @@
+/*
+Author:  Frederic Tanan
+*/
+
+bodyc {
+background-color: #BDB76B;
+}
+
+body {
+background-image: url(file:///C:/Projets/web/formation/html/images/fond.jpg);
+}
+.entete1{
+	width: 50%;
+	font-size: 16px;
+	text-align: center;
+	border: 4px black dotted;
+	border-radius: 5px 10px;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px; 
+	}
+
+.entete2{
+	width: 50%;
+	font-size: 16px;
+	font-weight: bold;
+	border: 4px black dotted;
+	border-radius: 5px 10px;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px; 
+	}
+	
+main section article h2 {
+	color: red;
+}
+
+.corps{ 
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	width: 60%;
+	background-color: white;
+	border-radius: 20px;
+	}
+
+
+.photo{
+	text-align: center;
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:100px;
+    height:100px;
+}
+
+.baspg{
+	text-align: center;
+	background-color: #FF7F50;
+	}
