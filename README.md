@@ -1,4 +1,4 @@
-# html-css-bootstrap
+# Activité html-css-bootstrap
 ## CV en HTML/CSS et Bootstrap 
 ## _Les sources sont dans html/_
 
