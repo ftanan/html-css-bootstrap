@@ -3,4 +3,4 @@
 
 ### Image CV avec CSS
 
-![CV](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+![CV](https://github.com/ftanan/html-css-bootstrap/blob/master/html/images/cvcss.png)
