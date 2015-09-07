@@ -1,5 +1,6 @@
 # html-css-bootstrap
 ## CV en HTML/CSS et Bootstrap 
+## _Les sources sont dans html/_
 
 ---------------------------
 ### Image CV avec CSS
